@@ -1,7 +1,7 @@
 {
   "name": "mathisfun",
   "version": "0.1.0",
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "http://gitname.github.io/mathisfun",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
